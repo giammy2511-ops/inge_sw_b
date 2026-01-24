@@ -1,0 +1,28 @@
+[ {
+  "id" : "castello-23-34",
+  "nome" : "castello",
+  "descrizione" : "castello di brescia",
+  "coordinate" : {
+    "latitudine" : 23,
+    "longitudine" : 34
+  },
+  "attivo" : true
+}, {
+  "id" : "piazza loggia-10--100",
+  "nome" : "piazza loggia",
+  "descrizione" : "loggia di brescia",
+  "coordinate" : {
+    "latitudine" : 10,
+    "longitudine" : -100
+  },
+  "attivo" : true
+}, {
+  "id" : "pinacoteca-12-17",
+  "nome" : "pinacoteca",
+  "descrizione" : "pinacoteca di brescia",
+  "coordinate" : {
+    "latitudine" : 12,
+    "longitudine" : 17
+  },
+  "attivo" : false
+} ]

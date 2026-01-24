@@ -1,0 +1,148 @@
+[ {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "titolo" : "tour del castello",
+  "idLuogo" : "castello-23-34",
+  "descrizione" : "visitiamo il castello",
+  "puntoDiIncontro" : {
+    "via" : "via trento",
+    "numeroCivico" : "2",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-01-01",
+    "dataFine" : "2026-10-10",
+    "oraInizio" : "12:00:00",
+    "durata" : "PT5H",
+    "giorniProgrammabili" : [ "MONDAY", "WEDNESDAY", "FRIDAY", "SUNDAY" ]
+  },
+  "volontari" : [ "luca", "lucia", "giulia", "filippo", "alessandro" ],
+  "acquistoBiglietto" : false,
+  "numMinPartecipanti" : 3,
+  "numMaxPartecipanti" : 6
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::tour-della-loggia",
+  "titolo" : "tour della loggia",
+  "idLuogo" : "piazza loggia-10--100",
+  "descrizione" : "visitiamo la loggia",
+  "puntoDiIncontro" : {
+    "via" : "via magenta",
+    "numeroCivico" : "",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-03-11",
+    "dataFine" : "2026-06-12",
+    "oraInizio" : "17:40:00",
+    "durata" : "PT2H30M",
+    "giorniProgrammabili" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "SUNDAY" ]
+  },
+  "volontari" : [ "lucia", "pietro", "greta", "marta" ],
+  "acquistoBiglietto" : true,
+  "numMinPartecipanti" : 1,
+  "numMaxPartecipanti" : 7
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "titolo" : "la casa delle rondinelle",
+  "idLuogo" : "stadio rigamonti-11-45",
+  "descrizione" : "visitiamo lo stadio",
+  "puntoDiIncontro" : {
+    "via" : "via ugoni",
+    "numeroCivico" : "12",
+    "descrizione" : "di fronte all'ingresso"
+  },
+  "scheduling" : {
+    "dataInizio" : "2025-12-28",
+    "dataFine" : "2026-03-12",
+    "oraInizio" : "13:00:00",
+    "durata" : "PT4H19M",
+    "giorniProgrammabili" : [ "TUESDAY", "THURSDAY", "MONDAY", "SATURDAY", "FRIDAY" ]
+  },
+  "volontari" : [ "filippo", "lucia", "alessandro", "giulia" ],
+  "acquistoBiglietto" : true,
+  "numMinPartecipanti" : 12,
+  "numMaxPartecipanti" : 35
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "titolo" : "tour della pinacoteca",
+  "idLuogo" : "pinacoteca-12-17",
+  "descrizione" : "ammiriamo i quadri",
+  "puntoDiIncontro" : {
+    "via" : "via monti",
+    "numeroCivico" : "12d",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-01-23",
+    "dataFine" : "2026-11-13",
+    "oraInizio" : "15:24:00",
+    "durata" : "PT4H10M",
+    "giorniProgrammabili" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "SUNDAY" ]
+  },
+  "volontari" : [ "lucia", "giulia", "pietro", "marta", "luca" ],
+  "acquistoBiglietto" : false,
+  "numMinPartecipanti" : 5,
+  "numMaxPartecipanti" : 8
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "titolo" : "museo delle armi",
+  "idLuogo" : "castello-23-34",
+  "descrizione" : "visitiamo il museo",
+  "puntoDiIncontro" : {
+    "via" : "via musei",
+    "numeroCivico" : "",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-02-13",
+    "dataFine" : "2026-09-08",
+    "oraInizio" : "19:00:00",
+    "durata" : "PT3H50M",
+    "giorniProgrammabili" : [ "TUESDAY", "SATURDAY", "SUNDAY", "FRIDAY" ]
+  },
+  "volontari" : [ "luca", "lucia", "giulia", "marta", "pietro", "greta" ],
+  "acquistoBiglietto" : false,
+  "numMinPartecipanti" : 22,
+  "numMaxPartecipanti" : 45
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "titolo" : "locali di brescia",
+  "idLuogo" : "piazza arnaldo-13-170",
+  "descrizione" : "visitiamo i locali",
+  "puntoDiIncontro" : {
+    "via" : "piazza arnaldo",
+    "numeroCivico" : "89",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-01-30",
+    "dataFine" : "2027-11-10",
+    "oraInizio" : "15:00:00",
+    "durata" : "PT8H20M",
+    "giorniProgrammabili" : [ "TUESDAY", "MONDAY", "FRIDAY", "SATURDAY", "SUNDAY" ]
+  },
+  "volontari" : [ "greta", "giulia", "lucia", "alessandro", "luca" ],
+  "acquistoBiglietto" : false,
+  "numMinPartecipanti" : 1,
+  "numMaxPartecipanti" : 4
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "titolo" : "comune di brescia",
+  "idLuogo" : "piazza loggia-10--100",
+  "descrizione" : "visitiamo il comune",
+  "puntoDiIncontro" : {
+    "via" : "corso palestro",
+    "numeroCivico" : "3c",
+    "descrizione" : ""
+  },
+  "scheduling" : {
+    "dataInizio" : "2026-01-23",
+    "dataFine" : "2026-10-29",
+    "oraInizio" : "11:00:00",
+    "durata" : "PT4H",
+    "giorniProgrammabili" : [ "MONDAY", "SATURDAY", "WEDNESDAY" ]
+  },
+  "volontari" : [ "luca", "filippo", "alessandro", "marta", "giulia" ],
+  "acquistoBiglietto" : true,
+  "numMinPartecipanti" : 2,
+  "numMaxPartecipanti" : 6
+} ]

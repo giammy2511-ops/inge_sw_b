@@ -1,0 +1,575 @@
+[ {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-01",
+  "nomeVolontario" : "luca",
+  "stato" : "completa",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "DE1796CC4F",
+    "usernameFruitore" : "sofia",
+    "numPersone" : 6
+  } ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-01",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-01",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-02",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-02",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-02",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-02",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-02",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-03",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-03",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-03",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-04",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-04",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-04",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-05",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-05",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-06",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-06",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-06",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-07",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-07",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-07",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-08",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-08",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-08",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-09",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-09",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-09",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-09",
+  "nomeVolontario" : "pietro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-10",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-10",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-10",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-11",
+  "nomeVolontario" : "luca",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-11",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-11",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-12",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-12",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-13",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-13",
+  "nomeVolontario" : "pietro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-13",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-14",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-14",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-14",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-15",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-15",
+  "nomeVolontario" : "pietro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-15",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-16",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-16",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-16",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-16",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-17",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-17",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-17",
+  "nomeVolontario" : "pietro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-17",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-18",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-18",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-19",
+  "nomeVolontario" : "filippo",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-19",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-20",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-20",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-20",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-20",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-21",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-21",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-21",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-21",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-22",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-22",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-22",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-23",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-23",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-23",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-23",
+  "nomeVolontario" : "pietro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-23",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-24",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-24",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-24",
+  "nomeVolontario" : "giulia",
+  "stato" : "completa",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "AFD44B67F7",
+    "usernameFruitore" : "carlo",
+    "numPersone" : 6
+  }, {
+    "codicePrenotazione" : "5E0119CF68",
+    "usernameFruitore" : "simone",
+    "numPersone" : 2
+  } ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-24",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-25",
+  "nomeVolontario" : "lucia",
+  "stato" : "completa",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "D8FB3CFC68",
+    "usernameFruitore" : "carlo",
+    "numPersone" : 6
+  } ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-25",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-25",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-26",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "513649A079",
+    "usernameFruitore" : "sofia",
+    "numPersone" : 15
+  } ]
+}, {
+  "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+  "data" : "2026-02-26",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::tour-del-castello",
+  "data" : "2026-02-27",
+  "nomeVolontario" : "lucia",
+  "stato" : "completa",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "E6F4B3DD17",
+    "usernameFruitore" : "simone",
+    "numPersone" : 6
+  } ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-27",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-27",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-27",
+  "nomeVolontario" : "greta",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-castello-23-34::museo-delle-armi",
+  "data" : "2026-02-28",
+  "nomeVolontario" : "lucia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-loggia-10--100::comune-di-brescia",
+  "data" : "2026-02-28",
+  "nomeVolontario" : "alessandro",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-stadio-rigamonti-11-45::la-casa-delle-rondinelle",
+  "data" : "2026-02-28",
+  "nomeVolontario" : "giulia",
+  "stato" : "proposta",
+  "iscrizioni" : [ ]
+}, {
+  "idTipoVisita" : "tipo-piazza-arnaldo-13-170::locali-di-brescia",
+  "data" : "2026-02-28",
+  "nomeVolontario" : "greta",
+  "stato" : "completa",
+  "iscrizioni" : [ {
+    "codicePrenotazione" : "4D14F2072B",
+    "usernameFruitore" : "carlo",
+    "numPersone" : 4
+  } ]
+} ]

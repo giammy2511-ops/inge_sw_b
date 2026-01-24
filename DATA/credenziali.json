@@ -1,0 +1,97 @@
+[ {
+  "nomeUtente" : "pippo",
+  "password" : "pippo1",
+  "ruolo" : "configuratore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "luigi",
+  "password" : "luigi1",
+  "ruolo" : "configuratore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "lucia",
+  "password" : "lucia1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "giulia",
+  "password" : "giulia1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "filippo",
+  "password" : "filippo1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "greta",
+  "password" : "greta1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "pietro",
+  "password" : "pietro1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "alessandro",
+  "password" : "alessandro1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "marta",
+  "password" : "marta1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "carlo",
+  "password" : "carlo1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "simone",
+  "password" : "simone1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "beatrice",
+  "password" : "beatrice1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "sofia",
+  "password" : "sofia1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "gianluca",
+  "password" : "gianluca1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "martina",
+  "password" : "martina1",
+  "ruolo" : "fruitore",
+  "primoAccesso" : false,
+  "attivo" : true
+}, {
+  "nomeUtente" : "nicola",
+  "password" : "user",
+  "ruolo" : "volontario",
+  "primoAccesso" : true,
+  "attivo" : false
+} ]

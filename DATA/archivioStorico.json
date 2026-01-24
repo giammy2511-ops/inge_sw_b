@@ -1,0 +1,26 @@
+{
+  "tipiVisitaScaduti" : [ {
+    "idTipoVisita" : "tipo-pinacoteca-12-17::tour-della-pinacoteca",
+    "titolo" : "tour della pinacoteca",
+    "idLuogo" : "pinacoteca-12-17",
+    "descrizione" : "ammiriamo i quadri",
+    "puntoDiIncontro" : {
+      "via" : "via monti",
+      "numeroCivico" : "12d",
+      "descrizione" : ""
+    },
+    "scheduling" : {
+      "dataInizio" : "2025-01-23",
+      "dataFine" : "2025-11-13",
+      "oraInizio" : "15:24:00",
+      "durata" : "PT4H10M",
+      "giorniProgrammabili" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "SUNDAY" ]
+    },
+    "volontari" : [ "lucia", "giulia", "pietro", "marta", "luca" ],
+    "acquistoBiglietto" : false,
+    "numMinPartecipanti" : 5,
+    "numMaxPartecipanti" : 8,
+    "attivo" : false
+  } ],
+  "visiteEffettuate" : [ ]
+}

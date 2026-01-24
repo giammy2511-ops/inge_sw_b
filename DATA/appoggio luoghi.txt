@@ -1,0 +1,41 @@
+[ {
+  "id" : "castello-23-34",
+  "nome" : "castello",
+  "descrizione" : "castello di brescia",
+  "coordinate" : {
+    "latitudine" : 23,
+    "longitudine" : 34
+  }
+}, {
+  "id" : "piazza loggia-10--100",
+  "nome" : "piazza loggia",
+  "descrizione" : "loggia di brescia",
+  "coordinate" : {
+    "latitudine" : 10,
+    "longitudine" : -100
+  }
+}, {
+  "id" : "stadio rigamonti-11-45",
+  "nome" : "stadio rigamonti",
+  "descrizione" : "stadio del brescia",
+  "coordinate" : {
+    "latitudine" : 11,
+    "longitudine" : 45
+  }
+}, {
+  "id" : "pinacoteca-12-17",
+  "nome" : "pinacoteca",
+  "descrizione" : "pinacoteca di brescia",
+  "coordinate" : {
+    "latitudine" : 12,
+    "longitudine" : 17
+  }
+}, {
+  "id" : "piazza arnaldo-13-170",
+  "nome" : "piazza arnaldo",
+  "descrizione" : "piazza della movida",
+  "coordinate" : {
+    "latitudine" : 13,
+    "longitudine" : 170
+  }
+} ]

@@ -1,0 +1,51 @@
+[ {
+  "nomeUtente" : "pippo",
+  "password" : "pippo1",
+  "ruolo" : "configuratore",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "luigi",
+  "password" : "luigi1",
+  "ruolo" : "configuratore",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "luca",
+  "password" : "luca1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "lucia",
+  "password" : "lucia1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "giulia",
+  "password" : "giulia1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "filippo",
+  "password" : "filippo1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "greta",
+  "password" : "greta1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "pietro",
+  "password" : "pietro1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "alessandro",
+  "password" : "alessandro1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+}, {
+  "nomeUtente" : "marta",
+  "password" : "marta1",
+  "ruolo" : "volontario",
+  "primoAccesso" : false
+} ]
