@@ -382,7 +382,7 @@ public class GestoreDati {
 	        return stato;
 	    }
 	
-	    boolean cambiato = sincronizzaStatoConCalendario(stato, oggi);
+	    boolean cambiato = sincronizzaStatoConCalendario(stato, oggi, true);
 	    if (cambiato) {
 	        fileIO.salvaStatoSistema(stato);
 	    }
@@ -402,7 +402,7 @@ public class GestoreDati {
 	}
 
 
-	private boolean sincronizzaStatoConCalendario(StatoSistema stato, LocalDate oggi) {
+	private boolean sincronizzaStatoConCalendario(StatoSistema stato, LocalDate oggi, boolean ignoraAutoRiapertura) {
 	    boolean cambiato = false;
 	
 	    YearMonth targetAtteso = meseTargetPerOggi(oggi);
@@ -420,7 +420,7 @@ public class GestoreDati {
 	        cambiato = true;
 	    }
 	
-	    if (oggi.getDayOfMonth() >= 16 && !stato.isRaccoltaAperta() && !stato.isPianoProdotto()) {
+	    if (!ignoraAutoRiapertura && oggi.getDayOfMonth() >= 16 && !stato.isRaccoltaAperta() && !stato.isPianoProdotto()) {
 	        stato.setRaccoltaAperta(true);
 	        cambiato = true;
 	    }

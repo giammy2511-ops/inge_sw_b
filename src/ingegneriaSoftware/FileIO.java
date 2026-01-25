@@ -235,7 +235,7 @@ public class FileIO {
         );
     }
 
-    public void salvaStatoSistema(StatoSistema stato) throws IOException {
+	public void salvaStatoSistema(StatoSistema stato) throws IOException {
         mapper.writerWithDefaultPrettyPrinter().writeValue(path(FILE_PATH_STATO_SISTEMA).toFile(), stato);
     }
 
