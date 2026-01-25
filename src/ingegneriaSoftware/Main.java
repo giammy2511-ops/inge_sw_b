@@ -2,6 +2,8 @@ package ingegneriaSoftware;
 
 import java.io.IOException;
 
+import ingegneriaSoftware.controller.GestoreDati;
+
 /**
  * Bootstrap dell'applicazione.
  * Responsabilità: caricare GestoreDati e avviare l'app.
