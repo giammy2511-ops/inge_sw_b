@@ -4,6 +4,7 @@ module ingegneriaSoftware4 {
     requires com.fasterxml.jackson.databind;
     requires com.fasterxml.jackson.datatype.jsr310;
     requires com.fasterxml.jackson.annotation;
+	requires org.junit.jupiter.api;
 
     opens ingegneriaSoftware.domain to com.fasterxml.jackson.databind;
     opens ingegneriaSoftware.controller to com.fasterxml.jackson.databind;
