@@ -26,7 +26,7 @@ public class VisiteGuidateApp {
         if (gestoreDati == null) throw new IllegalArgumentException("gestoreDati nullo");
         this.gestoreDati = gestoreDati;
 
-        // Controller per contesto (minimo sforzo)
+       
         this.loginController = new LoginController(gestoreDati);
         this.credenzialiController = new CredenzialiController(gestoreDati);
         this.datiGeneraliController = new DatiGeneraliController(gestoreDati);
@@ -61,7 +61,7 @@ public class VisiteGuidateApp {
 
         if (utenteCorrente.isPrimoAccesso()) {
             while (!credenzialiController.cambioCredenziali(utenteCorrente)) {
-                // riprova
+               
             }
         }
 
@@ -78,8 +78,7 @@ public class VisiteGuidateApp {
     private void postLoginCommonFlow() {
         try {
             boolean ok = datiGeneraliController.assicuratiDatiGeneraliPresenti(utenteCorrente);
-            if (!ok) {
-                // come prima: torno al benvenuto
+            if (!ok) {              
                 return;
             }
             avviaMenu();
